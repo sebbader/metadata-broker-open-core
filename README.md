@@ -60,4 +60,4 @@ see [Broker API in SwaggerHub](https://app.swaggerhub.com/apis/idsa/IDS-Broker/)
 
 ## Contact (Fraunhofer IAIS)
 
-* [Sebastian Bader](https://gitlab.truzzt.com/sebbader/) [email](mailto:sebastian.bader@iais.fraunhofer.de)
+* [IAIS Metadata Dev Team](mailto:contact@ids.fraunhofer.de)
